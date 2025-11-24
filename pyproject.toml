@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [
-  { name = "Your Name", email = "you@example.com" }
+  { name = "SHADIK", email = "shadik293@gmail.com.com" }
 ]
 keywords = ["math", "number theory", "modular arithmetic", "primes"]
 classifiers = [
@@ -21,7 +21,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-username/numbertheory"
+Homepage = "https://github.com/shadikhasan/numbertheory"
 
 [tool.setuptools.packages.find]
 where = ["src"]
