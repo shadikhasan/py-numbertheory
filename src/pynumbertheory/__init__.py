@@ -1,6 +1,6 @@
 """
-numbertheory
-============
+pynumbertheory
+==============
 
 A small utility library for number theory:
 - Basic arithmetic (gcd, lcm, extended gcd)

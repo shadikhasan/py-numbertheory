@@ -1,4 +1,4 @@
-from numbertheory import is_prime, sieve, prime_factors
+from pynumbertheory import is_prime, sieve, prime_factors
 
 
 def test_is_prime():

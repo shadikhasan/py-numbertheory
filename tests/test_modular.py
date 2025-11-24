@@ -1,4 +1,4 @@
-from numbertheory import mod_pow, mod_inv, chinese_remainder
+from pynumbertheory import mod_pow, mod_inv, chinese_remainder
 
 
 def test_mod_pow():

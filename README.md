@@ -1,5 +1,5 @@
-numbertheory
-============
+pynumbertheory
+==============
 
 Compact, classroom-friendly number theory helpers for Python projects and scripts.
 
@@ -14,7 +14,7 @@ Installation
 Requires Python 3.9+.
 
 ```bash
-pip install numbertheory
+pip install pynumbertheory
 ```
 
 Or from source for development:
@@ -26,7 +26,7 @@ pip install -e .[test]
 Usage
 -----
 ```python
-from numbertheory import (
+from pynumbertheory import (
     gcd, lcm, extended_gcd, is_perfect_square,
     is_prime, sieve, prime_factors,
     mod_pow, mod_inv, chinese_remainder,

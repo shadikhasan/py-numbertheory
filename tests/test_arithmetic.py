@@ -1,4 +1,4 @@
-from numbertheory import gcd, lcm, extended_gcd, is_perfect_square
+from pynumbertheory import gcd, lcm, extended_gcd, is_perfect_square
 
 
 def test_gcd_lcm():
